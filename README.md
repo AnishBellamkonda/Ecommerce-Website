@@ -10,8 +10,7 @@ Welcome to the E-commerce Website project repository! This project showcases a f
 4. [Setup and Installation](#setup-and-installation)
 5. [Usage](#usage)
 6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
+7. [Contact](#contact)
 
 ## Introduction
 
